@@ -35,7 +35,7 @@
   <img alt="Docker" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"     /> &nbsp;
 </div>
 
-## :fire: My Stats :
+## :fire: Mes statistiques :
 ![Mes github stats](https://github-readme-stats.vercel.app/api?username=David-ODB57&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=David-ODB57&theme=radical&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
