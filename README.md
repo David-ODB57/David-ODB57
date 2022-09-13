@@ -19,6 +19,8 @@
 Je suis un développeur Full Stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Je suis à la recherche d'un poste de développeur full-stack ou mobile.
 
+- :tongue: Je parle aussi :uk: :it: :es:
+
 - :books: Pendant mon temps libre, j'approfondis mes connaissances ou m'initie à de nouveaux langages.
 
 - :mailbox: Comment me joindre: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-broccoli/) ou [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbroccoli@gmail.com)
